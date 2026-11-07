@@ -19,7 +19,7 @@ export const content = {
     { value: "2024", label: "TCS On-the-Spot Star Performer" },
     { value: "Mumbai", label: "Based in" },
   ],
-  marquee: ["FULL-STACK DEVELOPMENT", "JAVA & SPRING BOOT", "REACT", "WEB DESIGN", "INTERACTIVE EXPERIENCES"],
+  marquee: ["FULL-STACK DEVELOPMENT", "JAVA", "SPRING BOOT", "REACT", "WEB DESIGN", "INTERACTIVE EXPERIENCES"],
   projects: [
     { title: "Project One", category: "CATEGORY", tech: "Spring Boot · React · Oracle", description: "Replace with a real project: what it does, your role and the result.", href: "#", image: "" },
     { title: "Project Two", category: "CATEGORY", tech: "Tech stack", description: "Replace with a real project.", href: "#", image: "" },
